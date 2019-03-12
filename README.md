@@ -1,3 +1,5 @@
+## ESXMilitaryjob
+
 Everything should be ok and everything should work but 
 if you have any insights or remarks, please write.
 
@@ -19,7 +21,7 @@ Everything can be changed in config.lua.
 
 
 ## Installation
-- - Put it in the resources directory 
+- Put it in the resources directory 
 - Import `esx_militaryjoben.sql` or `esx_militaryjobpl.sql` in your database
 - Add this in your server.cfg :
 
